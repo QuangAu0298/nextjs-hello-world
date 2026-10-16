@@ -62,6 +62,7 @@ export default function Home() {
           >
             Documentation
           </a>
+          <h1>Editing Page to Test Page Updating</h1>
         </div>
       </main>
     </div>
